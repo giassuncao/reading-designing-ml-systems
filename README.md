@@ -1,5 +1,5 @@
 # reading-designing-ml-systems
-
+Giovanna Assunção Pereira Soares
 A repository to accompany my reading of the book "Designing Machine Learning Systems" by Chip Huyen, this is part of the coursework for the Machine Learning course 
 The assignment was to read the first five chapters sof the book "Designing MAchine Learning Systems" by Chip Huyen and create five video presentations, one for each chapter, explaining its content and giving our point of view.
 
