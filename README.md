@@ -16,4 +16,8 @@ https://www.loom.com/share/f52b584f206345b091d9545ea4ac1683?sid=b1e3164f-1ae5-43
 
 Chapter 4 - Training Data
 
+
 Chapter 5 - Feature Engineering
+
+
+Slideshow presentation: https://www.canva.com/design/DAGVWgcA0qM/e_RgcET_QkZypcjZImKbBQ/edit?utm_content=DAGVWgcA0qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
