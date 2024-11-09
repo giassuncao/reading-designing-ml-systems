@@ -11,8 +11,8 @@ https://www.loom.com/share/3ecc71fd226741afb5b045295914dddc?sid=7e7d5e30-af4c-4c
 Chapter 2 - Introduction to Machine Learning Systems Design
 https://www.loom.com/share/16bd5e420ee84011a0a73e8a2c4c0204?sid=18619558-554e-4249-b291-70846e951e00
 
-Chapter 3 - 
+Chapter 3 - Data Engineering Fundamentals
 
-Chapter 4 - 
+Chapter 4 - Training Data
 
-Chapter 5 - 
+Chapter 5 - Feature Engineering
