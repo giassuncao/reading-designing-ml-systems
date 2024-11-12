@@ -13,6 +13,6 @@ Chapter 3 - Data Engineering Fundamentals: https://www.loom.com/share/f52b584f20
 
 Chapter 4 - Training Data: https://www.loom.com/share/c7873fc2efd140368c858a95980d4485?sid=9d012fc8-97a7-4536-8dc9-5ea29752d205
 
-Chapter 5 - Feature Engineering: 
+Chapter 5 - Feature Engineering: https://www.loom.com/share/925920525f484a2abc5a13979fa90a60?sid=755d89c9-45e0-44e3-81c4-7bd16b4bbc58
 
 [Slideshow presentation](https://www.canva.com/design/DAGVWgcA0qM/e_RgcET_QkZypcjZImKbBQ/edit?utm_content=DAGVWgcA0qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
